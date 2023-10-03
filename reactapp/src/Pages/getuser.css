@@ -1,0 +1,99 @@
+.UserList {
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    top: 0px;
+  }
+  
+  .UserList h1 {
+    font-size: 34px;
+    margin-bottom: 20px;
+    position: fixed;
+    left: 40%;
+    top: 30px;
+    color: #515151;
+  }
+  
+  .home-buttonUG {
+    background-color: #007bff;
+    position: fixed;
+    left: 20px;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .home-buttonUG:hover {
+    background-color: #0056b3;
+  }
+  
+  .buttonAC {
+    background-color: #f84c08;
+    position: fixed;
+    top: 30px;
+    right: 10px;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .buttonAC:hover {
+    background-color: #ff5100;
+  }
+  
+  .Tablee {
+    max-height: 570px;
+    position: fixed;
+    margin: 0 auto;
+    overflow-y: auto;
+    background-color: #f2f2f2;
+    width: 97%;
+    left: 20px;
+    top: 120px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th {
+    background-color: #f8f9fa;
+    padding: 12px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  td {
+    padding: 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .ActionButton {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .ActionButton:hover {
+    background-color: #c82333;
+  }
+
+  .search-container {
+    position: fixed;
+    right: 20%;
+    top: 30px;
+  }
+  

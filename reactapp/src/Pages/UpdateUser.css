@@ -1,0 +1,45 @@
+.UpdateUserContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .UpdateUserForm {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .UpdateUserLabel {
+    font-weight: bold;
+  }
+  
+  .UpdateUserInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .UpdateUserButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .UpdateUserError {
+    color: red;
+  }
+  
+  .UpdateUserSuccess {
+    color: green;
+  }
+  

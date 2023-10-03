@@ -1,0 +1,46 @@
+.detailsHH {
+    position: fixed;
+    top: 30px;
+    left: 30px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    width: 96%;
+    max-height: 94%;
+    overflow-y: auto;
+  }
+  
+  .user-messages-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-message-row {
+    border: 3px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-message-cell {
+    padding: 8px;
+    border: 1px solid #ccc;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-bottom: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  .buttonU {
+    background-color: #ff4b4b;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .buttonU:hover {
+    background-color: #e62e2e;
+  }
+  

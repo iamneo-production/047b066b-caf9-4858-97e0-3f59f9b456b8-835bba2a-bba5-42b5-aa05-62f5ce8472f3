@@ -1,0 +1,61 @@
+.AddUserContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  .AddUserForm {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .AddUserLabel {
+    font-weight: bold;
+  }
+  
+  .AddUserInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .AddUserButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Error and success messages */
+  .AddUserError {
+    color: red;
+  }
+  
+  .AddUserSuccess {
+    color: green;
+  }
+  
+  .AddUserContainer h2 {
+    position: relative;
+    bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .home-buttonUA {
+    padding: 10px;
+    position: relative;
+    height: 32px;
+    width: 90px;
+    top: 0px;
+    right: 45%;
+  }
